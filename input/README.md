@@ -1,0 +1,3 @@
+RSGMI1000.xml: pathogen file from Peyraud et al. with boundary metabolites were removed and growth-associated maintenance value update (see the Methods section of the paper)
+Sl2183.xml: The plant file from Gerlin et al. (2022) with updated biomass equation (see the Methods section of the paper).
+xylem.csv and calibration.csv: the user can modify plant parameter, either general physiology paramaters in calibration.csv and specific xylem fluxes in xylem.csv
